@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/97
     wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30023#The-Daughter-of-the-StorageAnd-Other-Things-in-Prose-and-Verse
 gutenberg_issued: '2009-09-18'
 gutenberg_type: Text
 identifiers:
