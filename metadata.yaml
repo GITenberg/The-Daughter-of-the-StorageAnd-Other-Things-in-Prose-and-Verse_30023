@@ -1,0 +1,39 @@
+_repo: The-Daughter-of-the-StorageAnd-Other-Things-in-Prose-and-Verse_30023
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2009-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Poetry'
+- !lcc 'PS'
+tableOfContents: 'The daughter of the storage -- A presentiment -- Captain Dunlevy''s
+  last trip -- The return to favor -- Somebody''s mother -- The face at the window
+  -- An experience -- The boarders -- Breakfast is my best meal -- The mother-bird
+  -- The amigo -- Black Cross farm -- The critical book-store -- A feast of reason
+  -- City and country in the fall -- Table talk -- The escapade of a grandfather --
+  Self-sacrifice: a farce-tragedy -- The night before Christmas.'
+title: 'The Daughter of the Storage
+
+  And Other Things in Prose and Verse'
+url: http://www.gutenberg.org/ebooks/30023
